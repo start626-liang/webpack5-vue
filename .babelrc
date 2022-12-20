@@ -1,0 +1,13 @@
+{
+  // "modules": false,
+  "presets": [
+    // [
+    //   "@babel/preset-env",
+    //   {
+    //     "useBuiltIns": "usage",
+    //     "corejs": 7
+    //   }
+    // ],
+    ["@vue/babel-preset-jsx"]
+  ]
+}
